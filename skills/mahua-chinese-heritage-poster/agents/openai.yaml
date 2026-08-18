@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mahua Chinese Heritage Poster"
+  short_description: "Create refined Chinese cultural heritage posters"
+  default_prompt: "Use $mahua-chinese-heritage-poster to transform my subject into a premium Chinese cultural heritage poster."
