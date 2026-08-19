@@ -19,11 +19,8 @@ mahua-chinese-heritage-poster/
 └── skills/
     └── mahua-chinese-heritage-poster/
         ├── SKILL.md
-        ├── agents/
-        │   └── openai.yaml
-        └── references/
-            ├── composition-and-style.md
-            └── prompt-template.md
+        └── agents/
+            └── openai.yaml
 ```
 
 ## 安装
