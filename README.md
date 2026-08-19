@@ -51,9 +51,19 @@ cp -R skills/mahua-chinese-heritage-poster ~/.codex/skills/
 - 宣纸、壁画、岩石和矿物颜料质感
 - 墨黑、赭石、朱砂、青绿、黛青与旧金等克制色彩
 
+## 案例展示
+
+| 江上渔歌 | 水上归人 |
+| --- | --- |
+| ![江上渔歌](examples/river-fishing-song.jpg) | ![水上归人](examples/waterway-homecoming.jpg) |
+
+| 西陵峡 | 西藏·布达拉宫 |
+| --- | --- |
+| ![西陵峡](examples/xiling-gorge.jpg) | ![西藏·布达拉宫](examples/potala-palace.jpg) |
+
 ## 版权与使用边界
 
-- 本仓库不包含示例照片、字体、品牌 Logo 或第三方视觉资产。
+- 本仓库仅包含生成案例，不包含源照片、字体、品牌 Logo 或第三方视觉资产。
 - 使用者应确保输入图片、建筑照片、商标和文案具有合法使用权限。
 - Skill 要求提取参考图的高层视觉语法，不复制特定作品的完整构图或受保护表达。
 - 生成结果可能出现建筑、人物、文字或历史事实错误，公开或商业使用前必须人工审核。
